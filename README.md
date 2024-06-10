@@ -4,19 +4,6 @@
 Este projeto explora o mundo das IAs Generativas. Aqui, utilizamos tecnologias avançadas de IA para criar conteúdos realistas e desafiadores, mostrando o potencial incrível dessas ferramentas modernas.
 
 ## 🤖 Tecnologias Utilizadas
-
-- GPT-3.5 da OpenAI para geração de textos
-- Bing para criação de imagens
-- ElevenLabs para síntese de áudio
-- CapCut para produção de vídeos
-- Canva para design e composição visual
-
-# Fronteiras do Imaginário: A Magia das IAs Generativas
-
-## 📒 Descrição
-Este projeto explora o mundo das IAs Generativas. Aqui, utilizamos tecnologias avançadas de IA para criar conteúdos realistas e desafiadores, mostrando o potencial incrível dessas ferramentas modernas.
-
-## 🤖 Tecnologias Utilizadas
 - GPT-3.5 da OpenAI para geração de textos
 - Bing para criação de imagens
 - ElevenLabs para síntese de áudio
